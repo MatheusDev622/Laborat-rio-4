@@ -61,6 +61,5 @@ int main() {
     printf("\nFrequencia:\n");
     print_frequency(m,vetB,freq);
   
-
     return 0;
 }
